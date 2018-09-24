@@ -1,0 +1,13 @@
+C:\Users\16\Desktop\трен\tren\tren\bin\Debug\tren.exe.config
+C:\Users\16\Desktop\трен\tren\tren\bin\Debug\tren.exe
+C:\Users\16\Desktop\трен\tren\tren\bin\Debug\tren.pdb
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.csprojAssemblyReference.cache
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.fmAutorization.resources
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.fmReg.resources
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.csproj.GenerateResource.cache
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.csproj.CoreCompileInputs.cache
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.exe
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.pdb
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.fmAdmin.resources
+C:\Users\16\Desktop\трен\tren\tren\obj\Debug\tren.fmUsers.resources
